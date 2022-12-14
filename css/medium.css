@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+.bg-yellow{
+    background-color: #Ffc017;
+}
+.border-bottom-1{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+.radius{
+    border-radius: 30px;
+}
